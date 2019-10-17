@@ -1,7 +1,7 @@
 # Beetle_walker
 by Yingjie Jiang
 
-This is the code written in Beijing Computational Science Center, in 2016, summer.
+This is the code written in Beijing Computational Science Research Center, in 2016, summer.
 
 Hexapod robot movement simulation built by [Project Chrono](https://projectchrono.org/)
 
